@@ -36,4 +36,4 @@ The analyses were performed on 20 soil sampling points, identified by metric coo
 * Mg/K (-)
 * Moisture (%)
 
-The dataset is a wide-format table (*i.e.* variables in rows, soil points in columns) and comes in comma separated values format and Open Document Spreadsheet format.
+The dataset is a wide-format table (*i.e.* variables in rows, soil points in columns) and comes in comma separated values (CSV) and Open Document Spreadsheet (ODS) file formats.
