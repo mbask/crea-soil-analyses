@@ -1,5 +1,7 @@
 # Soil analyses performed on CREA-IT fields
 
+[![DOI](https://zenodo.org/badge/329855814.svg)](https://zenodo.org/badge/latestdoi/329855814)
+
 This is a dataset analysed in the paper
 
 Bascietto, M.; Santangelo, E.; Beni, C. Spatial Variations of Vegetation Index from Remote Sensing Linked to Soil Colloidal Status, **2021**, *accepted for publication by Land*
